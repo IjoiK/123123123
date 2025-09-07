@@ -1,0 +1,14 @@
+Dockerfile
+.dockerignore
+
+.git
+.gitignore
+
+.venv
+/env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+/app/data/logs/
